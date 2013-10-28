@@ -1,0 +1,9 @@
+yo/node_modules
+yo/dist
+yo/.tmp
+yo/.sass-cache
+yo/app/bower_components
+.idea/
+sample.iml
+target/
+
